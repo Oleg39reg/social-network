@@ -1,0 +1,17 @@
+.content {
+  grid-area: c;
+  background-color: rgb(146, 107, 23);
+}
+
+.item {
+  color: greenyellow;
+}
+.logo {
+  width: 600px; 
+ 
+}
+.avatar {
+  width: 100px;
+  
+}
+
